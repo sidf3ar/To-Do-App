@@ -5,4 +5,4 @@ The link to the APK https://drive.google.com/file/d/1E9LV8_FSNgfnHb9EoW1JAvzV-pR
 #Prerequisites
 HTML5, CSS, JS, and a bit about Apache Cordova to port the App.
 
-#Feel free to use the code
+#Feel free to use this app,its code and assets. Just do not be evil :smiley:
